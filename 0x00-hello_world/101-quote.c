@@ -1,4 +1,8 @@
-#include <stdio.h>
+/*
+ * File:101-quote.c
+ * Auth:Hillary Oyaro
+*/
+#include <unistd.h>
 /**
  * main - Entry point
  *
