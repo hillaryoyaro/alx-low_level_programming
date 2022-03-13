@@ -1,7 +1,7 @@
 /*
  * File:101-print_comb4.c
  * Auth:Hillary Oyaro
- */
+*/
 /**
  * main Entry point to the program
  *
