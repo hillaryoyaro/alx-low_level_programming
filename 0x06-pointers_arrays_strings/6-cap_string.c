@@ -1,3 +1,8 @@
+/*
+ * Auth:Hillary Oyaro
+ * File:6-cap_string.c
+ */
+#include "main.h"
 int is_sep(char c);
 char cap_char(char c);
 
