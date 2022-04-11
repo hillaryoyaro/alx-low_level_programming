@@ -1,7 +1,3 @@
-/*
- * Auth:Hillary Oyaro
- * File:5-free_dog.c
- */
 #include "dog.h"
 #include <stdlib.h>
 
