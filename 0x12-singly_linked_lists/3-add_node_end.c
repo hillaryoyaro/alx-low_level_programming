@@ -5,6 +5,7 @@
 #include "lists.h"
 #include <string.h>
 #include "3-main.c"
+#include "0-print_list.c"
 /**
  * add_node_end - Adds a new node at the end
  *                of a list_t list.
