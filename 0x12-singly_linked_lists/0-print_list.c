@@ -4,7 +4,7 @@
  */
 #include "lists.h"
 #include <stdio.h>
-
+#include "0-main.c"
 /**
  * print_list - Prints all the elements of a list_t list.
  * @h: The list_t list.
