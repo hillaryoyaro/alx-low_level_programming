@@ -1,3 +1,8 @@
+/*
+ * Auth:Hillary Oyaro
+ * File: 6-pop_listint.c
+ */
+
 #include "lists.h"
 
 /**
