@@ -1,9 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdlib.h>
+#include <stdio.h>
+
 /*
  * File: main.h
- * AUth: Hillary Oyaro
+ *
  * Desc: Header file containing prototypes for all functions
  *       written in the 0x14-bit_manipulation directory.
  */
