@@ -1,4 +1,4 @@
-/* 
+/*
  * Auth:Hillary Oyaro
  * File:1-print_binary.c
  */
